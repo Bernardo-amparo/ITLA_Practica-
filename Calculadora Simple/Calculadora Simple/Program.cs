@@ -1,16 +1,16 @@
 ﻿using System;
-using System.IO; // Necesario para trabajar con archivos (el registro)
+using System.IO; 
 
-namespace CalculadoraV2_SumaResta
+namespace CalculadoraV3_SumaRestaMulti
 {
     class Program
     {
-        private static readonly string LogFilePath = "registro_operaciones_v2.txt";
+        private static readonly string LogFilePath = "registro_operaciones_v3.txt";
 
         static void Main(string[] args)
         {
             Console.WriteLine("-----------------------------------");
-            Console.WriteLine("  Calculadora V2: Suma y Resta     ");
+            Console.WriteLine(" Calculadora V3: Suma, Resta, Multi");
             Console.WriteLine("-----------------------------------");
             Console.WriteLine($"Operaciones se guardan en: {Path.GetFullPath(LogFilePath)}");
             Console.WriteLine("-----------------------------------");
@@ -34,15 +34,14 @@ namespace CalculadoraV2_SumaResta
                 {
                     break;
                 }
-                num1 = Convert.ToDecimal(input1); // Asume entrada válida
+                num1 = Convert.ToDecimal(input1); 
 
-                Console.Write("Ingrese la operacion (+, -): "); // Ahora el usuario elige
+                Console.Write("Ingrese la operacion (+, -, *): "); 
                 operacion = Console.ReadLine();
 
                 Console.Write("Ingrese el segundo numero: ");
-                num2 = Convert.ToDecimal(Console.ReadLine()); // Asume entrada válida
+                num2 = Convert.ToDecimal(Console.ReadLine());
 
-                // Realizar la operación (suma o resta)
                 switch (operacion)
                 {
                     case "+":
@@ -51,13 +50,16 @@ namespace CalculadoraV2_SumaResta
                     case "-":
                         resultado = num1 - num2;
                         break;
+                    case "*":
+                        resultado = num1 * num2;
+                        break;
                     default:
-                        Console.WriteLine("Operacion no reconocida. Solo '+' y '-'.");
+                        Console.WriteLine("Operacion no reconocida. Solo '+', '-' y '*'.");
                         logEntry = $"{DateTime.Now}: ERROR - Operacion no reconocida: {num1} {operacion} {num2}";
                         break;
                 }
 
-                if (string.IsNullOrEmpty(logEntry))
+                if (string.IsNullOrEmpty(logEntry)) 
                 {
                     Console.WriteLine($"El resultado de {num1} {operacion} {num2} es: {resultado}");
                     logEntry = $"{DateTime.Now}: {num1} {operacion} {num2} = {resultado}";
@@ -66,7 +68,7 @@ namespace CalculadoraV2_SumaResta
                 File.AppendAllText(LogFilePath, logEntry + Environment.NewLine);
             }
 
-            Console.WriteLine("\nCalculadora V2 terminada. Presione cualquier tecla para salir...");
+            Console.WriteLine("\nCalculadora V3 terminada. Presione cualquier tecla para salir...");
             Console.ReadKey();
         }
     }

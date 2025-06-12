@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Calculadora Simple\\Calculadora Simple\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora Simple\\Program.cs",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Calculadora Simple\\Calculadora Simple\\Program.cs",
-              "RelativeToolTip": "Calculadora Simple\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Calculadora Simple\\Calculadora Simple\\Program.cs*",
+              "RelativeToolTip": "Calculadora Simple\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T00:14:44.879Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
