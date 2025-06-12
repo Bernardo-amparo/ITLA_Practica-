@@ -12,3 +12,4 @@ C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Pract
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.pdb
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.genruntimeconfig.cache
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\ref\Calculadora Simple.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.sourcelink.json
