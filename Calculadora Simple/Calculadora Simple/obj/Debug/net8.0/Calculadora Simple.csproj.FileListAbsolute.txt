@@ -1,0 +1,14 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\bin\Debug\net8.0\Calculadora Simple.exe
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\bin\Debug\net8.0\Calculadora Simple.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\bin\Debug\net8.0\Calculadora Simple.runtimeconfig.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\bin\Debug\net8.0\Calculadora Simple.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\bin\Debug\net8.0\Calculadora Simple.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\refint\Calculadora Simple.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\Calculadora Simple.genruntimeconfig.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Calculadora Simple\Calculadora Simple\obj\Debug\net8.0\ref\Calculadora Simple.dll

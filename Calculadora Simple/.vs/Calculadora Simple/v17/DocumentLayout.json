@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Calculadora Simple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC365DEC-9C4F-4146-9A2C-C05240A53710}|Calculadora Simple\\Calculadora Simple.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\calculadora simple\\calculadora simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC365DEC-9C4F-4146-9A2C-C05240A53710}|Calculadora Simple\\Calculadora Simple.csproj|solutionrelative:calculadora simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Calculadora Simple\\Calculadora Simple\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora Simple\\Program.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Calculadora Simple\\Calculadora Simple\\Program.cs",
+              "RelativeToolTip": "Calculadora Simple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:14:44.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
