@@ -1,0 +1,15 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\bin\Debug\net8.0\Contact transformed.exe
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\bin\Debug\net8.0\Contact transformed.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\bin\Debug\net8.0\Contact transformed.runtimeconfig.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\bin\Debug\net8.0\Contact transformed.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\bin\Debug\net8.0\Contact transformed.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.sourcelink.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\refint\Contact transformed.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\Contact transformed.genruntimeconfig.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\Contact transformed\Contact transformed\obj\Debug\net8.0\ref\Contact transformed.dll
