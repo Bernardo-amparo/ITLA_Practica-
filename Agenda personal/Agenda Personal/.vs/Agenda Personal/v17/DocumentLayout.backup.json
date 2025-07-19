@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Agenda personal\\Agenda Personal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA9D7C0-C565-44B8-A464-B926F31D84F9}|Agenda Personal\\Agenda Personal.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\agenda personal\\agenda personal\\agenda personal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA9D7C0-C565-44B8-A464-B926F31D84F9}|Agenda Personal\\Agenda Personal.csproj|solutionrelative:agenda personal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Agenda personal\\Agenda Personal\\Agenda Personal\\Program.cs",
+              "RelativeDocumentMoniker": "Agenda Personal\\Program.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Agenda personal\\Agenda Personal\\Agenda Personal\\Program.cs",
+              "RelativeToolTip": "Agenda Personal\\Program.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAqwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:07:03.701Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

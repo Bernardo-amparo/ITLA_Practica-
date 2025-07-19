@@ -1,0 +1,15 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\bin\Debug\net8.0\Agenda Personal.exe
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\bin\Debug\net8.0\Agenda Personal.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\bin\Debug\net8.0\Agenda Personal.runtimeconfig.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\bin\Debug\net8.0\Agenda Personal.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\bin\Debug\net8.0\Agenda Personal.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.sourcelink.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\refint\Agenda Personal.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\Agenda Personal.genruntimeconfig.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Agenda personal\Agenda Personal\Agenda Personal\obj\Debug\net8.0\ref\Agenda Personal.dll
