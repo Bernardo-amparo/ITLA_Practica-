@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\Contact transformed\\Contact transformed\\Contact transformed.csproj": {}
+    "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\MiembroDeLaComunidad\\MiembroDeLaComunidad\\MiembroDeLaComunidad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\Contact transformed\\Contact transformed\\Contact transformed.csproj": {
+    "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\MiembroDeLaComunidad\\MiembroDeLaComunidad\\MiembroDeLaComunidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\Contact transformed\\Contact transformed\\Contact transformed.csproj",
-        "projectName": "Contact transformed",
-        "projectPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\Contact transformed\\Contact transformed\\Contact transformed.csproj",
+        "projectUniqueName": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\MiembroDeLaComunidad\\MiembroDeLaComunidad\\MiembroDeLaComunidad.csproj",
+        "projectName": "MiembroDeLaComunidad",
+        "projectPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\MiembroDeLaComunidad\\MiembroDeLaComunidad\\MiembroDeLaComunidad.csproj",
         "packagesPath": "C:\\Users\\ampar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\Contact transformed\\Contact transformed\\obj\\",
+        "outputPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Contact transformed\\MiembroDeLaComunidad\\MiembroDeLaComunidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

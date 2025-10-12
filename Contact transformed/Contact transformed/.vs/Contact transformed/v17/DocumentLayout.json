@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "Contact transformed\\Program.cs",
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Contact transformed\\Contact transformed\\Contact transformed\\Program.cs",
               "RelativeToolTip": "Contact transformed\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwC8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T23:48:38.207Z",
               "EditorCaption": ""
