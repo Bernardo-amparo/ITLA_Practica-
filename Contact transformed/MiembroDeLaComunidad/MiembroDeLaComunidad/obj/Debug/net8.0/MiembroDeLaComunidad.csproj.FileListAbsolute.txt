@@ -3,3 +3,13 @@ C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Pract
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\MiembroDeLaComunidad.AssemblyInfo.cs
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\MiembroDeLaComunidad.csproj.CoreCompileInputs.cache
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\MiembroDeLaComunidad.sourcelink.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\bin\Debug\net8.0\MiembroDeLaComunidad.exe
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\bin\Debug\net8.0\MiembroDeLaComunidad.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\bin\Debug\net8.0\MiembroDeLaComunidad.runtimeconfig.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\bin\Debug\net8.0\MiembroDeLaComunidad.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\bin\Debug\net8.0\MiembroDeLaComunidad.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\MiembroDeLaComunidad.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\refint\MiembroDeLaComunidad.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\MiembroDeLaComunidad.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\MiembroDeLaComunidad.genruntimeconfig.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Contact transformed\MiembroDeLaComunidad\MiembroDeLaComunidad\obj\Debug\net8.0\ref\MiembroDeLaComunidad.dll

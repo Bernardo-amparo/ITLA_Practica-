@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace MiembroDeLaComunidad
 {
-    public abstract class MiembroDeLaComunidad
+    public abstract class Miembrosbase
     {
         public string Nombre { get; set; }
         public int Identificador { get; set; }
 
-        public MiembroDeLaComunidad(string nombre, int id)
+        public Miembrosbase (string nombre, int id)
         {
             Nombre = nombre;
             Identificador = id;

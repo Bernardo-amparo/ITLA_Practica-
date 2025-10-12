@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MiembroDeLaComunidad
 {
-    public class Estudiante : MiembroDeLaComunidad
+    public class Estudiante : Miembrosbase
     {
         public string Carrera { get; set; }
 
@@ -21,7 +21,7 @@ namespace MiembroDeLaComunidad
         }
     }
 
-    public class ExAlumno : MiembroDeLaComunidad
+    public class ExAlumno : Miembrosbase
     {
         public int AnioGraduacion { get; set; }
 
@@ -36,11 +36,11 @@ namespace MiembroDeLaComunidad
         }
     }
 
-    public abstract class Empleado : MiembroDeLaComunidad
+    public abstract class Empleado : Miembrosbase
     {
         public decimal Salario { get; set; }
 
-        public Empleado(string nombre, int id, decimal salario) : base(nombre, id)
+        public Empleado(string nombre, int id, decimal salario) : base (nombre, id)
         {
             Salario = salario;
         }
