@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|solutionrelative:tarea2_crudapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|solutionrelative:tarea2_crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:04:32.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Program.cs",
               "RelativeDocumentMoniker": "Tarea2_CrudApi\\Program.cs",
@@ -47,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\appsettings.json",
               "RelativeDocumentMoniker": "Tarea2_CrudApi\\appsettings.json",
@@ -55,12 +76,11 @@
               "RelativeToolTip": "Tarea2_CrudApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-15T19:04:00.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T19:04:00.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductoCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\DTOs\\ProductoCreateDto.cs",
               "RelativeDocumentMoniker": "Tarea2_CrudApi\\DTOs\\ProductoCreateDto.cs",
@@ -72,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Data\\Data.cs",
               "RelativeDocumentMoniker": "Tarea2_CrudApi\\Data\\Data.cs",
@@ -84,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Models\\Models.cs",
               "RelativeDocumentMoniker": "Tarea2_CrudApi\\Models\\Models.cs",
@@ -92,12 +112,7 @@
               "RelativeToolTip": "Tarea2_CrudApi\\Models\\Models.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T16:43:03.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-11-15T16:43:03.38Z"
             }
           ]
         }
