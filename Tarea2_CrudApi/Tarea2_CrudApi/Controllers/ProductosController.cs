@@ -16,7 +16,6 @@ public class ProductosController : ControllerBase
             _context = context;
         }
 
-        // --- C R E A T E (POST) ---
         [HttpPost]
         public async Task<ActionResult<ProductoReadDto>> PostProducto(ProductoCreateDto productoDto)
         {
