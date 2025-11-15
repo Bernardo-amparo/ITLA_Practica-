@@ -1,0 +1,13 @@
+CREATE DATABASE MiCrudDB;
+GO
+
+USE MiCrudDB;
+GO
+
+
+CREATE TABLE Productos (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(255) NOT NULL,
+    Precio DECIMAL(18, 2) NOT NULL
+);
+GO
