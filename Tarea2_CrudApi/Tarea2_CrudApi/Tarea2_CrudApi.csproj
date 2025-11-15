@@ -15,4 +15,14 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tarea2_CrudApi.Domain\Tarea2_CrudApi.Domain.csproj" />
+    <ProjectReference Include="..\Tarea2_CrudApi.Infrastructure\Tarea2_CrudApi.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>

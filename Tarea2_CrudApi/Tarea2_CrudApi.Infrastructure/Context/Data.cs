@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Tarea2_CrudApi.Models;
+using Tarea2_CrudApi.Domain.Entities;
 
-namespace Tarea2_CrudApi.Data
+namespace Tarea2_CrudApi.Infrastructure.Context
 {
     public class ApplicationDbContext : DbContext
 

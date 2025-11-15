@@ -1,4 +1,4 @@
-﻿namespace Tarea2_CrudApi.Models
+﻿namespace Tarea2_CrudApi.Domain.Entities
 {
     public class Producto
     {
