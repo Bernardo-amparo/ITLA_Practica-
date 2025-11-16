@@ -7,8 +7,9 @@ using Tarea2_CrudApi.Domain.Entities;
 
 namespace Tarea2_CrudApi.Domain.Interfaces
 {
-    internal class IProductoRepository
+    public interface IProductoRepository
     {
+     
         Task<IEnumerable<Producto>> GetAllAsync();
         Task<Producto> GetByIdAsync(int id);
         Task AddAsync(Producto producto);

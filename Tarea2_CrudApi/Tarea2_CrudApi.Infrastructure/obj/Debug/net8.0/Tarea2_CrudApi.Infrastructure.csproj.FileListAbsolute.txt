@@ -1,0 +1,16 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.sourcelink.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\bin\Debug\net8.0\Tarea2_CrudApi.Infrastructure.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\bin\Debug\net8.0\Tarea2_CrudApi.Infrastructure.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\bin\Debug\net8.0\Tarea2_CrudApi.Infrastructure.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\bin\Debug\net8.0\Tarea2_CrudApi.Domain.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\bin\Debug\net8.0\Tarea2_CrudApi.Domain.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_C.9186B612.Up2Date
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\refint\Tarea2_CrudApi.Infrastructure.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\Tarea2_CrudApi.Infrastructure.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Infrastructure\obj\Debug\net8.0\ref\Tarea2_CrudApi.Infrastructure.dll

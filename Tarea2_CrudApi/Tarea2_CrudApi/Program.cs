@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Tarea2_CrudApi.Data;
+using Tarea2_CrudApi.Domain.Interfaces;
+using Tarea2_CrudApi.Infrastructure.Repositories;
+using Tarea2_CrudApi.Infrastructure.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
 // Add services to the container.
+builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
