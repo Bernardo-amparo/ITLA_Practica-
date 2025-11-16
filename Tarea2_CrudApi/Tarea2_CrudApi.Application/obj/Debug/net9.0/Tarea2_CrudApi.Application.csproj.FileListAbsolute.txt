@@ -1,0 +1,6 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net9.0\Tarea2_CrudApi.Application.csproj.AssemblyReference.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net9.0\Tarea2_CrudApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net9.0\Tarea2_CrudApi.Application.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net9.0\Tarea2_CrudApi.Application.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net9.0\Tarea2_CrudApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net9.0\Tarea2_CrudApi.Application.sourcelink.json

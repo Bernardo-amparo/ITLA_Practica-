@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea2_CrudApi.Domain", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea2_CrudApi.Infrastructure", "Tarea2_CrudApi.Infrastructure\Tarea2_CrudApi.Infrastructure.csproj", "{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea2_CrudApi.Application", "Tarea2_CrudApi.Application\Tarea2_CrudApi.Application.csproj", "{D5CF8279-A529-442B-9BE0-9216C4A2EB88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CF8279-A529-442B-9BE0-9216C4A2EB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CF8279-A529-442B-9BE0-9216C4A2EB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CF8279-A529-442B-9BE0-9216C4A2EB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CF8279-A529-442B-9BE0-9216C4A2EB88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

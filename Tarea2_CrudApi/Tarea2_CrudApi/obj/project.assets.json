@@ -1689,6 +1689,19 @@
           }
         }
       },
+      "Tarea2_CrudApi.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Tarea2_CrudApi.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tarea2_CrudApi.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tarea2_CrudApi.Application.dll": {}
+        }
+      },
       "Tarea2_CrudApi.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -5172,6 +5185,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Tarea2_CrudApi.Application/1.0.0": {
+      "type": "project",
+      "path": "../Tarea2_CrudApi.Application/Tarea2_CrudApi.Application.csproj",
+      "msbuildProject": "../Tarea2_CrudApi.Application/Tarea2_CrudApi.Application.csproj"
+    },
     "Tarea2_CrudApi.Domain/1.0.0": {
       "type": "project",
       "path": "../Tarea2_CrudApi.Domain/Tarea2_CrudApi.Domain.csproj",
@@ -5188,6 +5206,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.11",
       "Swashbuckle.AspNetCore >= 6.6.2",
+      "Tarea2_CrudApi.Application >= 1.0.0",
       "Tarea2_CrudApi.Domain >= 1.0.0",
       "Tarea2_CrudApi.Infrastructure >= 1.0.0"
     ]
@@ -5224,6 +5243,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj": {
+              "projectPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj"
+            },
             "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj": {
               "projectPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programación I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj"
             },

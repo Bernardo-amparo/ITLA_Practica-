@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Tarea2_CrudApi.Application.Contracts;
 using Tarea2_CrudApi.Domain.Entities; 
 using Tarea2_CrudApi.Domain.Interfaces; 
 using Tarea2_CrudApi.DTOs; 
@@ -8,11 +9,11 @@ using Tarea2_CrudApi.DTOs;
 public class ProductosController : ControllerBase
 {
 
-    private readonly IProductoRepository _repository;
+    private readonly IProductoService _service;
 
-    public ProductosController(IProductoRepository repository)
+    public ProductosController(IProductoService service)
     {
-        _repository = repository;
+        _service = service;
     }
 
     [HttpPost]
@@ -24,8 +25,8 @@ public class ProductosController : ControllerBase
             Precio = productoDto.Precio
         };
 
-        await _repository.AddAsync(producto);
-        await _repository.SaveChangesAsync(); 
+        await _service.AddAsync(producto);
+        await _service.SaveChangesAsync(); 
 
         var readDto = new ProductoReadDto
         {
@@ -41,7 +42,7 @@ public class ProductosController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<ProductoReadDto>>> GetProductos()
     {
-        var productos = await _repository.GetAllAsync();
+        var productos = await _service.GetAllAsync();
 
         return Ok(productos.Select(p => new ProductoReadDto
         {
@@ -56,7 +57,7 @@ public class ProductosController : ControllerBase
     public async Task<ActionResult<ProductoReadDto>> GetProducto(int id)
     {
 
-        var producto = await _repository.GetByIdAsync(id);
+        var producto = await _service.GetByIdAsync(id);
 
         if (producto == null)
         {
@@ -78,7 +79,7 @@ public class ProductosController : ControllerBase
     public async Task<IActionResult> PutProducto(int id, ProductoCreateDto productoDto)
     {
 
-        var productoExistente = await _repository.GetByIdAsync(id);
+        var productoExistente = await _service.GetByIdAsync(id);
 
         if (productoExistente == null)
         {
@@ -88,8 +89,8 @@ public class ProductosController : ControllerBase
         productoExistente.Nombre = productoDto.Nombre;
         productoExistente.Precio = productoDto.Precio;
 
-        _repository.Update(productoExistente);
-        await _repository.SaveChangesAsync();
+        _service.Update(productoExistente);
+        await _service.SaveChangesAsync();
 
         return NoContent(); 
     }
@@ -98,14 +99,14 @@ public class ProductosController : ControllerBase
     public async Task<IActionResult> DeleteProducto(int id)
     {
 
-        var producto = await _repository.GetByIdAsync(id);
+        var producto = await _service.GetByIdAsync(id);
         if (producto == null)
         {
             return NotFound();
         }
 
-        _repository.Delete(producto);
-        await _repository.SaveChangesAsync(); 
+        _service.Delete(producto);
+        await _service.SaveChangesAsync(); 
 
         return NoContent(); 
     }
