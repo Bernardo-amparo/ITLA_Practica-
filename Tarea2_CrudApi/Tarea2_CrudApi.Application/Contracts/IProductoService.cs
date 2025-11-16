@@ -1,4 +1,4 @@
-﻿using Tarea2_CrudApi.DTOs;
+﻿using Tarea2_CrudApi.Domain.DTOs;
 
 namespace Tarea2_CrudApi.Application.Contracts
 {

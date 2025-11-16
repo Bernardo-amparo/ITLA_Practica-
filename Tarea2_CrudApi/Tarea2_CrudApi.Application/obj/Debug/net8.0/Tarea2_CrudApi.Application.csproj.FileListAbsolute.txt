@@ -1,6 +1,16 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\bin\Debug\net8.0\Tarea2_CrudApi.Application.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\bin\Debug\net8.0\Tarea2_CrudApi.Application.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\bin\Debug\net8.0\Tarea2_CrudApi.Application.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\bin\Debug\net8.0\Tarea2_CrudApi.Domain.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\bin\Debug\net8.0\Tarea2_CrudApi.Domain.pdb
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.csproj.AssemblyReference.cache
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.AssemblyInfoInputs.cache
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.AssemblyInfo.cs
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.csproj.CoreCompileInputs.cache
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.sourcelink.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_C.A4DB6958.Up2Date
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\refint\Tarea2_CrudApi.Application.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\Tarea2_CrudApi.Application.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Tarea2_CrudApi\Tarea2_CrudApi.Application\obj\Debug\net8.0\ref\Tarea2_CrudApi.Application.dll

@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+	  
     <ProjectReference Include="..\Tarea2_CrudApi.Domain\Tarea2_CrudApi.Domain.csproj" />
   </ItemGroup>
 

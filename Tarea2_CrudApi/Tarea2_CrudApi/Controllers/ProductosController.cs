@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Tarea2_CrudApi.Application.Contracts;
-using Tarea2_CrudApi.Domain.Entities; 
-using Tarea2_CrudApi.Domain.Interfaces; 
-using Tarea2_CrudApi.DTOs; 
+using Tarea2_CrudApi.Domain.DTOs; 
 
 [Route("api/[controller]")]
 [ApiController]
@@ -16,98 +14,71 @@ public class ProductosController : ControllerBase
         _service = service;
     }
 
+
     [HttpPost]
     public async Task<ActionResult<ProductoReadDto>> PostProducto(ProductoCreateDto productoDto)
     {
-        var producto = new Producto
-        {
-            Nombre = productoDto.Nombre,
-            Precio = productoDto.Precio
-        };
+        var readDto = await _service.CreateProductoAsync(productoDto);
 
-        await _service.AddAsync(producto);
-        await _service.SaveChangesAsync(); 
 
-        var readDto = new ProductoReadDto
-        {
-            Id = producto.Id,
-            Nombre = producto.Nombre,
-            Precio = producto.Precio
-        };
-
-        return CreatedAtAction(nameof(GetProducto), new { id = producto.Id }, readDto);
+        return CreatedAtAction(nameof(GetProducto), new { id = readDto.Id }, readDto);
     }
 
 
     [HttpGet]
     public async Task<ActionResult<IEnumerable<ProductoReadDto>>> GetProductos()
     {
-        var productos = await _service.GetAllAsync();
+        var productos = await _service.GetAllProductosAsync();
 
-        return Ok(productos.Select(p => new ProductoReadDto
-        {
-            Id = p.Id,
-            Nombre = p.Nombre,
-            Precio = p.Precio
-        }).ToList());
+
+        return Ok(productos);
     }
+
 
 
     [HttpGet("{id}")]
     public async Task<ActionResult<ProductoReadDto>> GetProducto(int id)
     {
 
-        var producto = await _service.GetByIdAsync(id);
+        var productoDto = await _service.GetProductoByIdAsync(id);
 
-        if (producto == null)
+        if (productoDto == null)
         {
-            return NotFound(); 
+            return NotFound();
         }
 
-        var productoDto = new ProductoReadDto
-        {
-            Id = producto.Id,
-            Nombre = producto.Nombre,
-            Precio = producto.Precio
-        };
-
-        return Ok(productoDto); 
+        return Ok(productoDto);
     }
 
 
     [HttpPut("{id}")]
     public async Task<IActionResult> PutProducto(int id, ProductoCreateDto productoDto)
     {
-
-        var productoExistente = await _service.GetByIdAsync(id);
-
-        if (productoExistente == null)
+        try
+        {
+            await _service.UpdateProductoAsync(id, productoDto);
+        }
+        catch (InvalidOperationException) 
         {
             return NotFound();
         }
-
-        productoExistente.Nombre = productoDto.Nombre;
-        productoExistente.Precio = productoDto.Precio;
-
-        _service.Update(productoExistente);
-        await _service.SaveChangesAsync();
 
         return NoContent(); 
     }
 
+
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteProducto(int id)
     {
-
-        var producto = await _service.GetByIdAsync(id);
-        if (producto == null)
+        try
+        {
+            await _service.DeleteProductoAsync(id);
+        }
+        catch (InvalidOperationException)
         {
             return NotFound();
         }
 
-        _service.Delete(producto);
-        await _service.SaveChangesAsync(); 
-
-        return NoContent(); 
+        return NoContent();
     }
 }

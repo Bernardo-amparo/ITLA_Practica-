@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.application\\tarea2_crudapi.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|solutionrelative:tarea2_crudapi.application\\tarea2_crudapi.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}|Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.infrastructure\\tarea2_crudapi.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}|Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj|solutionrelative:tarea2_crudapi.infrastructure\\tarea2_crudapi.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.domain\\tarea2_crudapi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|solutionrelative:tarea2_crudapi.domain\\tarea2_crudapi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.application\\contracts\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|solutionrelative:tarea2_crudapi.application\\contracts\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|solutionrelative:tarea2_crudapi\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|solutionrelative:tarea2_crudapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,16 +15,52 @@
       "RelativeMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|solutionrelative:tarea2_crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.application\\contracts\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|solutionrelative:tarea2_crudapi.application\\contracts\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.domain\\dtos\\productoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|solutionrelative:tarea2_crudapi.domain\\dtos\\productoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.domain\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|solutionrelative:tarea2_crudapi.domain\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|solutionrelative:tarea2_crudapi.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.application\\tarea2_crudapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|solutionrelative:tarea2_crudapi.application\\tarea2_crudapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi\\tarea2_crudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|solutionrelative:tarea2_crudapi\\tarea2_crudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi\\tarea2_crudapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A791C130-C1AC-40AD-A889-8D662AD3DCDD}|Tarea2_CrudApi\\Tarea2_CrudApi.csproj|solutionrelative:tarea2_crudapi\\tarea2_crudapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.application\\tarea2_crudapi.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D5CF8279-A529-442B-9BE0-9216C4A2EB88}|Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj|solutionrelative:tarea2_crudapi.application\\tarea2_crudapi.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}|Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.infrastructure\\tarea2_crudapi.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}|Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj|solutionrelative:tarea2_crudapi.infrastructure\\tarea2_crudapi.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.domain\\tarea2_crudapi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|solutionrelative:tarea2_crudapi.domain\\tarea2_crudapi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}|Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.infrastructure\\context\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}|Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj|solutionrelative:tarea2_crudapi.infrastructure\\context\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|solutionrelative:tarea2_crudapi.domain\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479794DB-C0F4-4651-BF89-DC3B0F4DD17B}|Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj|solutionrelative:tarea2_crudapi.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B265A1D-A3AF-4A46-9ED8-F80F94E15ABB}|Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\tarea2_crudapi\\tarea2_crudapi.infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,6 +89,36 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\DTOs\\ProductoReadDto.cs",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi.Domain\\DTOs\\ProductoReadDto.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\DTOs\\ProductoReadDto.cs",
+              "RelativeToolTip": "Tarea2_CrudApi.Domain\\DTOs\\ProductoReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:17:09.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\DTOs\\ProductoCreateDto.cs",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi.Domain\\DTOs\\ProductoCreateDto.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\DTOs\\ProductoCreateDto.cs",
+              "RelativeToolTip": "Tarea2_CrudApi.Domain\\DTOs\\ProductoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:15:58.931Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IProductoService.cs",
@@ -80,27 +126,104 @@
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Application\\Contracts\\IProductoService.cs",
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Contracts\\IProductoService.cs",
               "RelativeToolTip": "Tarea2_CrudApi.Application\\Contracts\\IProductoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T02:01:13.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\DTOs\\ProductoCreateDto.cs",
-              "RelativeDocumentMoniker": "Tarea2_CrudApi\\DTOs\\ProductoCreateDto.cs",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\DTOs\\ProductoCreateDto.cs",
-              "RelativeToolTip": "Tarea2_CrudApi\\DTOs\\ProductoCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Tarea2_CrudApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T16:56:20.975Z",
+              "WhenOpened": "2025-11-15T20:04:32.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:06:57.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Program.cs",
+              "RelativeToolTip": "Tarea2_CrudApi\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:14:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tarea2_CrudApi.Application",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
+              "RelativeToolTip": "Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T02:55:01.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarea2_CrudApi",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "RelativeToolTip": "Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T02:58:35.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:54:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tarea2_CrudApi",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "RelativeDocumentMoniker": "Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "RelativeToolTip": "Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T02:54:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Tarea2_CrudApi.Domain",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj",
@@ -112,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Tarea2_CrudApi.Infrastructure",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
@@ -124,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Tarea2_CrudApi.Application",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
@@ -136,46 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "Tarea2_CrudApi\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "Tarea2_CrudApi\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T20:04:32.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
-              "RelativeDocumentMoniker": "Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
-              "RelativeToolTip": "Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:06:57.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Program.cs",
-              "RelativeDocumentMoniker": "Tarea2_CrudApi\\Program.cs",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Program.cs",
-              "RelativeToolTip": "Tarea2_CrudApi\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T19:14:59.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Infrastructure\\Context\\Data.cs",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Infrastructure\\Context\\Data.cs",
@@ -183,12 +267,11 @@
               "RelativeToolTip": "Tarea2_CrudApi.Infrastructure\\Context\\Data.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T23:10:12.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T23:10:12.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "IProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Interfaces\\IProductoRepository.cs",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Domain\\Interfaces\\IProductoRepository.cs",
@@ -196,12 +279,11 @@
               "RelativeToolTip": "Tarea2_CrudApi.Domain\\Interfaces\\IProductoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T22:57:43.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T22:57:43.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Infrastructure\\Repositories\\ProductoRepository.cs",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Infrastructure\\Repositories\\ProductoRepository.cs",
@@ -213,24 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
-              "RelativeDocumentMoniker": "Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
-              "RelativeToolTip": "Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T22:54:39.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Tarea2_CrudApi.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
@@ -238,11 +303,12 @@
               "RelativeToolTip": "Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-15T23:00:17.944Z"
+              "WhenOpened": "2025-11-15T23:00:17.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\appsettings.json",
               "RelativeDocumentMoniker": "Tarea2_CrudApi\\appsettings.json",
