@@ -1,0 +1,29 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Navegador Web.exe
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Navegador Web.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Navegador Web.runtimeconfig.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Navegador Web.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Navegador Web.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.vbproj.AssemblyReference.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador_Web.Form1.resources
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador_Web.Resources.resources
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.vbproj.GenerateResource.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.AssemblyInfo.vb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.vbproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.sourcelink.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegado.9BFBD9BD.Up2Date
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\refint\Navegador Web.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\Navegador Web.genruntimeconfig.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\obj\Debug\net8.0-windows\ref\Navegador Web.dll

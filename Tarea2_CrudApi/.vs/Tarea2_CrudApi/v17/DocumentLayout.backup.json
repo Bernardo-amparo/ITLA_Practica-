@@ -102,8 +102,7 @@
               "RelativeToolTip": "Tarea2_CrudApi.Domain\\DTOs\\ProductoReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T03:17:09.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T03:17:09.987Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "Tarea2_CrudApi.Domain\\DTOs\\ProductoCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T03:15:58.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T03:15:58.931Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "Tarea2_CrudApi.Application\\Contracts\\IProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:01:13.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:01:13.041Z"
             },
             {
               "$type": "Document",
@@ -154,8 +151,7 @@
               "RelativeToolTip": "Tarea2_CrudApi.Application\\Services\\ProductoService.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:06:57.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:06:57.214Z"
             },
             {
               "$type": "Document",
@@ -167,34 +163,31 @@
               "RelativeToolTip": "Tarea2_CrudApi\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAkwBcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T19:14:59.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T19:14:59.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Tarea2_CrudApi.Application",
+              "Title": "Tarea2_CrudApi.Application.csproj",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
               "RelativeDocumentMoniker": "Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
               "RelativeToolTip": "Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T02:55:01.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:55:01.478Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Tarea2_CrudApi",
+              "Title": "Tarea2_CrudApi.csproj",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
               "RelativeDocumentMoniker": "Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
               "RelativeToolTip": "Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T02:58:35.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:58:35.213Z"
             },
             {
               "$type": "Document",
@@ -206,8 +199,7 @@
               "RelativeToolTip": "Tarea2_CrudApi.Domain\\Entities\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T22:54:39.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T22:54:39.786Z"
             },
             {
               "$type": "Document",
@@ -218,8 +210,7 @@
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
               "RelativeToolTip": "Tarea2_CrudApi\\Tarea2_CrudApi.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T02:54:06.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:54:06.87Z"
             },
             {
               "$type": "Document",
@@ -230,8 +221,7 @@
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj",
               "RelativeToolTip": "Tarea2_CrudApi.Domain\\Tarea2_CrudApi.Domain.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T00:11:51.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T00:11:51.027Z"
             },
             {
               "$type": "Document",
@@ -242,8 +232,7 @@
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
               "RelativeToolTip": "Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T00:15:06.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T00:15:06.703Z"
             },
             {
               "$type": "Document",
@@ -254,8 +243,7 @@
               "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Tarea2_CrudApi\\Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
               "RelativeToolTip": "Tarea2_CrudApi.Application\\Tarea2_CrudApi.Application.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T02:25:28.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T02:25:28.828Z"
             },
             {
               "$type": "Document",
@@ -303,8 +291,7 @@
               "RelativeToolTip": "Tarea2_CrudApi.Infrastructure\\Tarea2_CrudApi.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-15T23:00:17.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T23:00:17.944Z"
             },
             {
               "$type": "Document",

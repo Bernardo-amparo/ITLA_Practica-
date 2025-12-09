@@ -1,0 +1,104 @@
+0:00:51 Memory Pressure: Critical
+0:00:52 Widget Closed: StatusBubble
+0:00:56 Memory Pressure: Critical
+0:00:56 Tab1 StartNav21 #google #typed
+0:00:57 Tab1 FinishNav21
+0:00:57 Tab1 StartNav22 #google #renderer-script #link
+0:00:57 Tab1 FinishNav22
+0:00:57 Tab1 PageLoad #google
+0:01:01 Memory Pressure: Critical
+0:01:06 Memory Pressure: Critical
+0:01:11 Memory Pressure: Critical
+0:01:16 Memory Pressure: Critical
+0:01:21 Memory Pressure: Critical
+0:01:26 Memory Pressure: Critical
+0:01:31 Memory Pressure: Critical
+0:01:36 Memory Pressure: Critical
+0:01:41 Memory Pressure: Critical
+0:01:45 Widget Closed: StatusBubble
+0:01:46 Memory Pressure: Critical
+0:01:51 Memory Pressure: Critical
+0:01:57 Memory Pressure: Critical
+0:02:02 Memory Pressure: Critical
+0:02:07 Memory Pressure: Critical
+0:02:08 Tab1 StartNav23 #typed
+0:02:12 Memory Pressure: Critical
+0:02:13 Tab1 FinishNav23
+0:02:13 Tab1 StartNav24 #renderer-script #auto_subframe
+0:02:13 Tab1 FinishNav24
+0:02:14 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:15 Tab1 PageLoad
+0:02:15 Tab1 PageLoad
+0:02:17 Memory Pressure: Critical
+0:02:22 Memory Pressure: Critical
+0:02:24 Tab1 StartNav25 #google #typed
+0:02:25 Tab1 FinishNav25
+0:02:26 Tab1 StartNav26 #google #renderer-script #link
+0:02:26 Tab1 FinishNav26
+0:02:27 Tab1 PageLoad #google
+0:02:27 Memory Pressure: Critical
+0:02:32 Memory Pressure: Critical
+0:02:34 Widget Closed: StatusBubble
+0:02:37 Memory Pressure: Critical
+0:02:42 Memory Pressure: Critical
+0:02:47 Memory Pressure: Critical
+0:02:52 Memory Pressure: Critical
+0:02:57 Memory Pressure: Critical
+0:03:02 Memory Pressure: Critical
+0:03:07 Memory Pressure: Critical
+0:03:12 Memory Pressure: Critical
+0:03:17 Memory Pressure: Critical
+0:03:22 Memory Pressure: Critical
+0:03:27 Memory Pressure: Critical
+0:03:32 Memory Pressure: Critical
+0:03:37 Memory Pressure: Critical
+0:03:42 Memory Pressure: Critical
+0:03:47 Memory Pressure: Critical
+0:03:52 Memory Pressure: Critical
+0:03:57 Memory Pressure: Critical
+0:04:02 Memory Pressure: Critical
+0:04:07 Memory Pressure: Critical
+0:04:12 Memory Pressure: Critical
+0:04:17 Memory Pressure: Critical
+0:04:22 Memory Pressure: Critical
+0:04:27 Memory Pressure: Critical
+0:04:32 Memory Pressure: Critical
+0:04:37 Memory Pressure: Critical
+0:04:42 Memory Pressure: Critical
+0:04:43 Widget Closed: TooltipAura
+0:04:44 Tab1 StartNav27 #renderer-script #auto_subframe
+0:04:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:04:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_False
+0:04:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_False
+0:04:45 Tab1 BeforeUnload proceed:true
+0:04:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_False
+0:04:45 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:04:45 Microsoft.UnloadController.ClearUnloadState
+0:04:45 Widget Closed: StatusBubble
+0:04:45 Browser1 Close Tab1 at 0
+0:04:45 Tab1 FinishNav27
+0:04:45 Tab1 WebContentsDestroyed
+0:04:45 Microsoft.UnloadController.TabStripEmpty
+0:04:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:04:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:04:45 Microsoft.Shutdown.OnWindowClosing
+0:04:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:04:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:04:45 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:04:45 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:04:45 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:04:45 Widget Closed: BrowserWidget
+0:04:45 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:04:45 Microsoft.Shutdown.OnWindowClosing
+0:04:45 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+0:04:45 Microsoft.Shutdown.OnWindowClosing
+0:04:45 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+0:04:45 Microsoft.Last_Browser_Removed
+0:04:46 Microsoft.Shutdown.ShutdownIfNoBrowsers
+0:04:46 Microsoft.Shutdown.SetTryingToQuit_Quitting
+0:04:46 Microsoft.Shutdown.NotifyAppTerminating
+0:04:46 Microsoft.Shutdown.OnAppExiting
+0:04:46 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
+0:04:46 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
+0:04:46 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
+0:04:46 Shutdown

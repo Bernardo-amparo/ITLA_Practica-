@@ -1,0 +1,15 @@
+2025/11/24-17:21:38.551 2448 Reusing MANIFEST C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Navegador Web.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/24-17:21:38.561 2448 Recovering log #15
+2025/11/24-17:21:38.572 2448 Reusing old log C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\Navegador Web\Navegador Web\bin\Debug\net8.0-windows\Navegador Web.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000015.log 
+2025/11/24-17:22:38.610 4864 Level-0 table #19: started
+2025/11/24-17:22:38.622 4864 Level-0 table #19: 39744 bytes OK
+2025/11/24-17:22:38.627 4864 Delete type=0 #15
+2025/11/24-17:22:38.630 2448 Compacting 4@0 + 1@1 files
+2025/11/24-17:22:38.636 2448 Generated table #20@0: 79 keys, 34339 bytes
+2025/11/24-17:22:38.636 2448 Compacted 4@0 + 1@1 files => 34339 bytes
+2025/11/24-17:22:38.637 2448 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/24-17:22:38.638 2448 Delete type=2 #8
+2025/11/24-17:22:38.638 2448 Delete type=2 #10
+2025/11/24-17:22:38.639 2448 Delete type=2 #12
+2025/11/24-17:22:38.639 2448 Delete type=2 #16
+2025/11/24-17:22:38.639 2448 Delete type=2 #19

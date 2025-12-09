@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Navegador Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F061745-E379-4EE3-A84B-58F6CB2A7172}|Navegador Web\\Navegador Web.vbproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\navegador web\\navegador web\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F061745-E379-4EE3-A84B-58F6CB2A7172}|Navegador Web\\Navegador Web.vbproj|solutionrelative:navegador web\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F061745-E379-4EE3-A84B-58F6CB2A7172}|Navegador Web\\Navegador Web.vbproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\navegador web\\navegador web\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3F061745-E379-4EE3-A84B-58F6CB2A7172}|Navegador Web\\Navegador Web.vbproj|solutionrelative:navegador web\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Navegador Web\\Navegador Web\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Navegador Web\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Navegador Web\\Navegador Web\\Form1.Designer.vb",
+              "RelativeToolTip": "Navegador Web\\Form1.Designer.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-25T16:09:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Navegador Web\\Navegador Web\\Form1.vb",
+              "RelativeDocumentMoniker": "Navegador Web\\Form1.vb",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\Navegador Web\\Navegador Web\\Form1.vb",
+              "RelativeToolTip": "Navegador Web\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-24T02:14:30.734Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
