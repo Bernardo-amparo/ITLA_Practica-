@@ -1,0 +1,8 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\Biblioteca.Api.csproj.AssemblyReference.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\Biblioteca.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\Biblioteca.Api.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\Biblioteca.Api.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\Biblioteca.Api.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\Biblioteca.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Api\obj\Debug\net8.0\Biblioteca.Api.sourcelink.json

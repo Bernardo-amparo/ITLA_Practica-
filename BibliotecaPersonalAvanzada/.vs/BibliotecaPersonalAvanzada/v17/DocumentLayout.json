@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA04559E-4424-4A03-A05A-A49C3D7666BC}|Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.dataaccess\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA04559E-4424-4A03-A05A-A49C3D7666BC}|Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj|solutionrelative:biblioteca.dataaccess\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B096BD82-7F96-454D-B1F0-3326534BF543}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.domain\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B096BD82-7F96-454D-B1F0-3326534BF543}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B096BD82-7F96-454D-B1F0-3326534BF543}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.domain\\auther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B096BD82-7F96-454D-B1F0-3326534BF543}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\auther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.api\\biblioteca.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\biblioteca.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B096BD82-7F96-454D-B1F0-3326534BF543}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.domain\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B096BD82-7F96-454D-B1F0-3326534BF543}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA04559E-4424-4A03-A05A-A49C3D7666BC}|Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.dataaccess\\biblioteca.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA04559E-4424-4A03-A05A-A49C3D7666BC}|Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj|solutionrelative:biblioteca.dataaccess\\biblioteca.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ACA42F6-7DD1-46EC-88CF-F0C61B9C7C10}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA04559E-4424-4A03-A05A-A49C3D7666BC}|Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programaci\u00F3n i\\itla_practica-\\bibliotecapersonalavanzada\\biblioteca.dataaccess\\biblioteca.dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{FA04559E-4424-4A03-A05A-A49C3D7666BC}|Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj|solutionrelative:biblioteca.dataaccess\\biblioteca.dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
@@ -17,12 +53,133 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Biblioteca.Api",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\Biblioteca.Api.csproj",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\Biblioteca.Api.csproj",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\Biblioteca.Api.csproj",
+              "RelativeToolTip": "Biblioteca.Api\\Biblioteca.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T00:05:04.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.DataAccess\\Data\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "Biblioteca.DataAccess\\Data\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.DataAccess\\Data\\BibliotecaContext.cs",
+              "RelativeToolTip": "Biblioteca.DataAccess\\Data\\BibliotecaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:59:37.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auther.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Domain\\Auther.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Auther.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Domain\\Auther.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Auther.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:50:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\Program.cs",
+              "RelativeToolTip": "Biblioteca.Api\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:00:08.629Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Domain\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Libro.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Domain\\Libro.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Libro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:03:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Biblioteca.Api\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:06:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Biblioteca.DataAccess",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj",
+              "RelativeToolTip": "Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T23:13:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntidadBase.cs",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Domain\\EntidadBase.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\EntidadBase.cs",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Domain\\EntidadBase.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\EntidadBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:25:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.Api\\appsettings.json",
+              "RelativeToolTip": "Biblioteca.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T21:55:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Biblioteca.DataAccess",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programaci\u00F3n I\\ITLA_Practica-\\BibliotecaPersonalAvanzada\\Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj",
               "RelativeDocumentMoniker": "Biblioteca.DataAccess\\Biblioteca.DataAccess.csproj",
@@ -31,10 +188,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-09T16:39:09.895Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

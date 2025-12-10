@@ -1,0 +1,6 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.sourcelink.json

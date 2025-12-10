@@ -1,0 +1,5 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programación I\ITLA_Practica-\BibliotecaPersonalAvanzada\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.sourcelink.json
